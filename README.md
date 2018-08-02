@@ -1,7 +1,7 @@
 # train-scheduler
 
 A train schedule application that incorporates Firebase to host arrival and departure data
-   User should be able to see others previous input's also
+#User should be able to see others previous input's also
 
 
 # Instructions
